@@ -1,41 +1,52 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Toha%20Siddique&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Jr.%20Software%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<h1 data-importer="text" align="center">INFRA SYS DEVELOPER @ACS LOGISTICS LIMITED</h1>
 
+###
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=recursid&theme=github_dark&hide_border=true&cache_seconds=86400" alt="RecurSID's GitHub Streak" width="49%" />
-</p>
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
+</div>
 
----
+###
 
-## Skills & Technologies
-
-| Category | Technologies |
-|---|---|
-| **Mobile** | Flutter · Dart · Provider (State Management) |
-| **Frontend** | HTML · CSS · JavaScript |
-| **Database** | PostgreSQL · MySQL · Firestore |
-| **Publication** | NLP · Sentiment Analysis · Character-Level CNN · IEEE ICCCNT 2025 |
-| **Others** | C · C++ · Python · Linux · Git · Postman · Embedded C++ |
-
----
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammadtohasiddique">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/1580662846">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mohammadtohasiddique@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://recursid.github.io/Portfolio/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/mohammadtohasiddique/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="https://discord.com/users/938408600118890507" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:mohammadtohasiddique@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://linktr.ee/tohasiddique" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Others&logo=linktree&label=&color=2D3340&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/RecurSID/RecurSID/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=RecurSID&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/RecurSID/RecurSID/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
