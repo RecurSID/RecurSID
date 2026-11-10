@@ -44,7 +44,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/RecurSID/RecurSID/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="[https://raw.githubusercontent.com/RecurSID/RecurSID/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph](https://github-readme-stats.shion.dev/api/top-langs/?username=RecurSID&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)"  />
   <img src="https://streak-stats.demolab.com?user=RecurSID&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/RecurSID/RecurSID/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
